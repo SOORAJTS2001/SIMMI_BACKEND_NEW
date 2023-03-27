@@ -1,0 +1,9 @@
+venv/
+simm_venv/
+*.cfg
+
+.DS_STORE
+**/__pycache__/
+db.sqlite3
+*.pyc
+media/
